@@ -1,0 +1,19 @@
+{
+  "name": "express-api-response",
+  "version": "1.0.0",
+  "description": "Node.js api response uniform format returns middleware",
+  "main": "./lib/api-response.js",
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha",
+    "lint": "",
+    "test-cov": ""
+  },
+  "author": "jw872505975@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
+  }
+}
