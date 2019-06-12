@@ -1,5 +1,5 @@
 {
-  "name": "express-api-response",
+  "name": "express-api-res",
   "version": "1.0.0",
   "description": "Node.js api response uniform format returns middleware",
   "main": "./lib/api-response.js",
